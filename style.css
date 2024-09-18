@@ -33,7 +33,7 @@ body {
 }
 
 .instagram-phone img {
-    height: 50rem;
+    height: 40rem;
 }
 
 .instagram-continue {
@@ -117,6 +117,8 @@ body {
     height: 3rem;
     width: 10rem;
     background-size: cover;
+    border: 1px rgb(119, 119, 119) solid;
+    border-radius: 7%;
 }
 
 .app-download:nth-child(1) {
